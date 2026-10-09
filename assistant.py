@@ -37,7 +37,7 @@ def main():
     messages = []
 
     print("================================")
-    print("      DPB&A CLI Assistant   ")
+    print("      DPB&A CLI Assistant")
     print("================================")
     print("Powered by Ollama and Llama 3.2")
     print("Type 'help' for commands or 'exit' to quit.\n")
